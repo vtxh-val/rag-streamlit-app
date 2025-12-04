@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+# IDEs
+.vscode/
+.idea/
+# macOS
+.DS_Store
+# Streamlit
+.streamlit/
